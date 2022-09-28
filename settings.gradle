@@ -1,0 +1,5 @@
+rootProject.name = 'root'
+include('core')
+include('app')
+include('domain')
+include('web')
